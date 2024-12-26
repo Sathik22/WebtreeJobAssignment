@@ -26,7 +26,7 @@ const UserProfile = () => {
       ></div>
 
 
-      <div className="w-fit relative m-5   rounded-2xl flex  md:shadow-lg -inset-2 md:shadow-purple-500  ">
+      <div className="w-fit relative m-5   rounded-2xl flex  md:shadow-lg -inset-2 md:shadow-purple-500  bg-black ">
         <div className="relative  flex-col p-2 m-2 bg-gradient-to-r  from-pink-800 to bg-black-900  rounded-lg md:shadow-lg md:shadow-black  text-center" >
           <img
             src={user.picture.large}
